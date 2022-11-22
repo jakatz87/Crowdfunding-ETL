@@ -70,6 +70,7 @@ contacts_df=pd.DataFrame(dict_values, columns=['contact_id', 'name', 'email'])
 contacts_df.head()
  ```
 I created an updated contacts csv file:
+
 ![image](https://github.com/jakatz87/Crowdfunding-ETL/blob/main/Created%20contact%20sample.png)
 
 ## Summary
