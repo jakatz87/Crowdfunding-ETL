@@ -5,7 +5,7 @@ I assisted a crowdfunding platform in transferring all its accessible data from 
 ## Resources
 ***Data Source***: crowdfunding.xlsx, backer_info.csv
 
-***Software***: Python 3.7.13, Pandas, Jupyter Notebook, PostgreSQL11, pgAdmin4
+***Software***: Python 3.7.13, Pandas, JSON, Jupyter Notebook, PostgreSQL11, pgAdmin4
 
 ## Results
 When given the excel file for the Extraction process, I noticed the campaign information could be disaggregated by category and subcategory and some of the headers could use work. Here is a sample of the raw data for the campaigns:
